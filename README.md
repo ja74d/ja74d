@@ -1,6 +1,6 @@
 - 👋 Hi, I’m javad
 - 👀 I’m interested in python and GNU/linux
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning JavaScript
 - 📫 My email: pournosrat.javad@gmail.com
 
 <!---
