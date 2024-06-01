@@ -2,4 +2,3 @@
 - 👀 I’m interested in Python and GNU/Linux
 - 🌱 I’m currently learning Ruby
 - 📫 My email: pournosrat.javad@gmail.com
-- 
